@@ -1,6 +1,6 @@
-# Project Title
+# Training Ground / Sandbox
 
-One Paragraph of project description goes here
+This is my personal website, desktop/mobile app, code testing page. 
 
 ## Getting Started
 
