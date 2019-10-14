@@ -1,0 +1,4 @@
+name: The Daily Blog
+
+plugins:
+  - jekyll-gallery-generator
